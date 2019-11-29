@@ -52,3 +52,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# Erlang
+*.beam
+
+
+# Java
+*.class
+
+
+# Rust
+Cargo.lock
